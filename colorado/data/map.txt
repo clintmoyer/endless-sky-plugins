@@ -15,7 +15,7 @@
 
 planet "Coloradia"
         attributes "dirt belt" textiles farming
-        landscape land/coloradoscape
+        landscape land/coloradiascape
         description `Coloradia is a dry, rugged planet named after a historical mining district from the original Earth colony. They say the mountains and volcanoes offer a powerful reminder of the forces of nature which humans initially had to overcome. Craft beer and integrated circuitboards remain common exports from this vital community.`
         spaceport `The spaceport is situated just on the other side of the Elk Mountains. One of the few thriving species, elk roam freely surrounding the spaceport offering a tranquil entry for new colonists.`
         shipyard "Basic Ships"
@@ -56,7 +56,7 @@ system RockyMountains
         fleet "Small Militia" 6000
         fleet "Human Miners" 3000
         object "Coloradia"
-                sprite planet/colorado
+                sprite planet/coloradia
                 distance 413.86
                 period 100.375
 
