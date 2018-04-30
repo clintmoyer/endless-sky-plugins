@@ -16,7 +16,7 @@
 mission "What happened in Leadville"
 	priority
 	name "What happened in Leadville?"
-	description "Something crazy went down in the ultra-high altitude of the City of Leadville. Go investigate."
+	description "Something crazy went down in the ultra-high altitude City of Leadville. Go investigate."
 	job
     passenger 1
 	source "Coloradia"

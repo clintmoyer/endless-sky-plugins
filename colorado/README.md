@@ -37,7 +37,7 @@ Missions
 
 ### What happened in Leadville?
 
-Something crazy went down in the ultra-high altitude of the City of
+Something crazy went down in the ultra-high altitude City of
 Leadville. Go investigate.
 
 ### Snoop on the Rocks
